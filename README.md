@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RetailStore Demo with AWS Amplify 
 
 A hands-on workshop for building a full-stack retail store application using AWS Amplify's "Code-First" approach with React and Next.js.
@@ -16,3 +17,7 @@ Learn how to build and deploy a serverless web application using AWS Amplify Gen
 - AWS Amplify (Gen 2 + Hosting)
 - Next.js and React
 - AWS Services (AppSync, DynamoDB, Lambda)
+=======
+# FWM_Worhsopp
+Flutter workshop wih backend 
+>>>>>>> 20534beab45bce51fe5d866111bf73273c3a071b
